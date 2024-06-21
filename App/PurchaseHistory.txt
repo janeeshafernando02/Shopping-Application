@@ -1,0 +1,4 @@
+Purchase ID: PH5119, Product ID: D1000, ProductName: Fan, Total Price: 23000.00 €, Quantity: 1, User ID: C0001
+Purchase ID: PH7264, Product ID: W1000, ProductName: Laptop, Total Price: 200000.00 €, Quantity: 1, User ID: C0001
+Purchase ID: PH5681, Product ID: S1290, ProductName: Fan, Total Price: 2300.00 €, Quantity: 1, User ID: C0001
+Purchase ID: PH6956, Product ID: W1000, ProductName: Laptop, Total Price: 200000.00 €, Quantity: 1, User ID: C0001

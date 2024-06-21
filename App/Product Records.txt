@@ -1,0 +1,4 @@
+Type: Electronics, Product ID: D1000, Product Name: Fan, Quantity: 23, Price: 23000.00€, Brand name: LG, Warranty Period: 2
+Type: Clothing, Product ID: S1000, Product Name: Skirt, Quantity: 20, Price: 20000.00€, Size: L, Color: Dark Grey
+Type: Electronics, Product ID: W1000, Product Name: Laptop, Quantity: 23, Price: 200000.00€, Brand name: Dell, Warranty Period: 2
+Type: Electronics, Product ID: S1290, Product Name: Fan, Quantity: 2, Price: 2300.00€, Brand name: Lg, Warranty Period: 2
